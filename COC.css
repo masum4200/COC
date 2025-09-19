@@ -6,7 +6,9 @@
   font-family: "Roboto", sans-serif;
   font-size: small;
 }
-body {overflow-X: hidden;}
+body {
+  overflow-x: hidden;
+}
 header {
   background-image: url(https://supercell.com/images/ae58a39e76410b4ae9c2bea65d4a584d/1281/hero_bg_clashofclans_.fae7c799.webp);
   background-repeat: no-repeat;
@@ -706,5 +708,6 @@ footer {
     }
   }
 }
+
 
 
